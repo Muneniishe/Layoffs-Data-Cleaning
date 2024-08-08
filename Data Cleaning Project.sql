@@ -1,7 +1,7 @@
 # 1. Remove Duplicates
 # 2. Standardize data
 # 3. Null Value or blank vakues
-# 4. Remove duplicates
+# 4. Remove Duplicates
 
 select*
 from layoffs ;
